@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1640388040 source:c:\users\marco\desktop\tup\laboratorio de computacion i\proyecto_laboratorio\proyectodado\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<windows.h>
+	"funciones.h"
+	"juegodosparticipantes.h"
+
+1645712374 c:\users\marco\desktop\tup\laboratorio de computacion i\proyecto_laboratorio\proyectodado\funciones.h
+	<windows.h>
+
+1646655901 c:\users\marco\desktop\tup\laboratorio de computacion i\proyecto_laboratorio\proyectodado\juegodosparticipantes.h
+	"funciones.h"
+
+1639364640 c:\users\marco\desktop\tup\laboratorio de computacion i\proyecto_laboratorio\proyectodado\funciondados.h
+
